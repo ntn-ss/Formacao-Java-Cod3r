@@ -1,0 +1,13 @@
+Estruturas de dados são diferentes de dados. Estes são os valores atribuídos às variáveis ou às constantes, já aquelas têm um nome autoexplicativo: elas buscam organizar, estruturar e administrar os dados, como é o que acontece com listas (ordenadas ou não ordenadas). Por exemplo: um número inteiro é um dado, mas o conjunto dos números inteiros é uma estrutura de dados.
+
+Lógica Fifo (First In, First Out): o primeiro elemento a entrar numa estrutura é o primeiro a sair dela (pensar na fila de um banco).
+Lógica Lifo (Last In, First Out): o último elemento a entrar numa estrutura é o primeiro a sair dela (pensar em uma pilha de livros).
+
+Estrutura em árvore: pensar no sistema de diretórios, subdiretórios e arquivos do computador: organização em ramificações.
+Estrutura em tabela: muito usada em bancos de dados relacionais e planilhas empresarias, forma clássica de organização.
+
+Estruturas de dados básicas: conjuntos numéricos (como inteiros e reais), alfabetos e valores booleanos (verdadeiro ou falso).
+
+Operações com dados: de atribuição (rotulá-lo a uma variável ou constante, designando-lhe um endereço na memória: {=}), aritméticas (as da matemática: {+, -, *, /, ^, sqrt}), relacionais (verificar relação de valores entre si: {>,<,>=,<=, ==, !=, ===, !==}) e lógicas (estabelecer uma série de verificações sobre operações relacionais: {||, &&, !}).
+
+Estruturas personalizadas: a partir das estruturas básicas, mapear quaisquer estruturas específicas para o seu software, como clientes ou produtos.
