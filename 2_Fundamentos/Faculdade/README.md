@@ -1,0 +1,1 @@
+Esta pasta representa uma tarefa passada pelo professor em aula, para aplicar na prática a estrutura de pastas ("src" e pacotes) e criação de projetos no Java (vários arquivos ".java" interagindo e colaborando entre si), não foi exatamente um código, mas sim uma consolidação de teoria.
