@@ -1,0 +1,7 @@
+Operadores unários: realizam sua função com um operando apenas, ex.: {++}.
+
+Operadores binários: realizam sua função com dois operandos, ex.: { +, -, *, / e % }.
+
+Operadores ternários: realizam sua função com três operandos, estrutura.: { operando ? operando : operando }.
+
+Dividem-se em operadores aritméticos, relacionais, lógicos e de atribuição.
