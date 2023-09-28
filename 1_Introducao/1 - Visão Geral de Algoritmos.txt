@@ -1,5 +1,0 @@
-O curso inicia passando a visão geral de conceitos teóricos fundamentais e importantes a qualquer linguagem de programação: algoritmos e estruturas de dados. Algoritmos são o "verbo", o "processar" dos dados, geralmente idealizados e produzidos antes da criação do software, e as estruturas de dados são as responsáveis pela organização das informações em questão.
-
-Algoritmos são caracterizados por sequências bem-otimizadas de passos muito bem-definidos e bem-pensados. Dentro dessas sequências, é muito recorrente a presença de repetições de conjuntos de passos e verificações de condições cujas decisões criam ramificações e possíveis fins diferentes à execução do software, tal como na vida real, por exemplo: uma nota ser maior ou menor que certa média caracteriza apenas aprovação ou reprovação de um aluno, nunca os dois ao mesmo tempo.
-
-Algoritmos podem ser representados por linguagem natural (idiomas humanos), linguagem artificial (as de programação), fluxogramas e pseudocódigo.
