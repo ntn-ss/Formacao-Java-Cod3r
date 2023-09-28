@@ -1,4 +1,4 @@
-package fundamentos.operadores;
+package fundamentos.desafios;
 
 import javax.swing.JOptionPane;
 

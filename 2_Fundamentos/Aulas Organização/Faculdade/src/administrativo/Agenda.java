@@ -1,4 +1,4 @@
-package administracao;
+package administrativo;
 
 public class Agenda {
     
