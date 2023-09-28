@@ -1,1 +1,0 @@
-Esta pasta representa a aula em que o professor explicou sobre a estrutura de pastas ("src" e pacotes) e criação de projetos no Java (vários arquivos ".java" interagindo e colaborando entre si), não foi exatamente um código, mas sim um acompanhamento de teoria.
