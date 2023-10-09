@@ -1,4 +1,4 @@
-package controle;
+package controle.desafios;
 
 public class DesafioIf {
     public static void main(String[] args) {
